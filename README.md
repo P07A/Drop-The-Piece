@@ -11,5 +11,5 @@ if you are interested in Unity project.
 
 All you have to do to play the game is COLLECT THE RAINDROPS WITH THE BUCKET and PLAY MUSIC WITH THEM!
 
-If you just watch how it works go to the link below:
+If you just watch how it works go to the link:
 https://youtube.com/shorts/BBO9mdE7QR8?feature=share
